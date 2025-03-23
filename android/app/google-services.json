@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980946708000",
+    "project_id": "feel-mate-01niw2",
+    "storage_bucket": "feel-mate-01niw2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980946708000:android:51c9434afbb5e02d387e45",
+        "android_client_info": {
+          "package_name": "com.mycompany.feelmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaE7SS7L2mM5Uim7uvxluju-5i1x7dgeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
